@@ -1,1 +1,1 @@
-# python with calculate degree
+machine learning projects
