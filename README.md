@@ -22,3 +22,8 @@ Python Programming for Data Science
   - Fonksiyonlara Özellik ve Docstring Ekleme
   - Pandas Alıştırmalar
   - Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama
+  
+  
+ Natural Language Processing (NLP)
+  - KOZMOS: Amazon Yorumları için Duygu Analizi
+  - WIKIMEDIA: Metin Ön İşleme ve Görselleştirme
