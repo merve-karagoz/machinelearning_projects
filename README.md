@@ -27,3 +27,6 @@ Python Programming for Data Science
  Natural Language Processing (NLP)
   - KOZMOS: Amazon Yorumları için Duygu Analizi
   - WIKIMEDIA: Metin Ön İşleme ve Görselleştirme
+
+Time Series
+  - Iyzico İşlem Hacmi Tahmini
