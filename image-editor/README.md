@@ -33,7 +33,7 @@ Nasıl Kullanılır
 
 1. Bu deponun kopyasını yerel makinenize kopyalayın:
 
-git clone https://github.com/merve-karagoz/image-editor.git
+git clone https:[//github.com/merve-karagoz/image-editor.git](https://github.com/merve-karagoz/machinelearning_projects/tree/main/image-editor)
 
 
 2. Proje dizinine gidin:
