@@ -1,5 +1,11 @@
 Image Editor with Pillow
 
+
+![image](https://github.com/user-attachments/assets/4f39ae67-aa45-44e6-a80f-f9d6d1e4b3f3)
+
+
+
+
 Bu proje  çevirme, kırpma ve kontrastı artırma gibi çeşitli görüntü düzenleme görevlerini gerçekleştirmek için Pillow kütüphanesini kullanan basit bir Python tabanlı görüntü düzenleyicisidir .
 
 Özellikler
